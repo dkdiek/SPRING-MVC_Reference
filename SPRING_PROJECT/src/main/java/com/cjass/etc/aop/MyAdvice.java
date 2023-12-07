@@ -50,6 +50,7 @@ public class MyAdvice {
 		System.out.println("Before...");
 //		ServletRequestAttributes sra = (ServletRequestAttributes) RequestContextHolder.currentRequestAttributes();
 //		HttpServletRequest request = sra.getRequest();
+		
 //
 //		HttpSession session = request.getSession();
 //		String uri = request.getRequestURI();
